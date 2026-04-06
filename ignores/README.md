@@ -1,4 +1,4 @@
-# Editors
+# Ignores
 
 ## Visual Studio Code `.code-workspace`
 

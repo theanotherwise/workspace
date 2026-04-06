@@ -1,6 +1,6 @@
-## Editors
+## Ignores
 
-- [editors/README.md](./editors/README.md)
+- [ignores/README.md](./ignores/README.md)
 
 ```bashhttps://github.com/theanotherwise/workspace/blob/plasma/README.md
 konsole --tabs-from-file konsole.tabs --profile  TheAnotherWise
