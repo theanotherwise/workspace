@@ -39,6 +39,6 @@ EndSection
 
 ## MacOS
 
-### Override Basics
+### Override iterm2
 
-![Screenshot 2024-01-17 at 22 45 37](https://github.com/theanotherwise/workspace/assets/9096064/67805a9a-3106-49ad-b5f2-329a87ff17fe)
+<img width="367" height="151" alt="image" src="https://github.com/user-attachments/assets/9b016287-b2e8-474a-a40b-0d03ca412353" />
