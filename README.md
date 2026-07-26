@@ -1,19 +1,5 @@
 ## Ignores
 
-- [ignores/README.md](./ignores/README.md)
-
-```bashhttps://github.com/theanotherwise/workspace/blob/plasma/README.md
-konsole --tabs-from-file konsole.tabs --profile  TheAnotherWise
-```
-
-## KDE Plasma Widgets
-
-```bash
-qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(true)"
-
-qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(false)"
-```
-
 ## Intel as Display, NVIDIA for Cuda
 
 ```bash
