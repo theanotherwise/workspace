@@ -1,4 +1,0 @@
-wt.exe --window 0 new-tab \
-  --profile "Ubuntu" \
-  --title "host1" \
-  --tabColor "#F00" /bin/bash
