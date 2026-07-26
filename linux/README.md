@@ -1,5 +1,3 @@
-## Intel as Display, NVIDIA for Cuda
-
 ```bash
 prime-select on-demand
 ```
