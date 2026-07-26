@@ -1,7 +1,3 @@
-# Ignores
-
-## Visual Studio Code `.code-workspace`
-
 ```json
 {
 	"folders": [
@@ -10,11 +6,10 @@
 		}
 	],
 	"settings": {
-		"window.title": "Presemantic | App | Homearo | Upload - CF Workerxxx",
+		"window.title": "Workspace",
 		"files.exclude": {
 			"**/node_modules": true,
 			"**/.git": true,
-			"**/.github": true,
 			"**/.gitignore": true,
 			"**/.DS_Store": true,
 			"**/.cache": true,
@@ -33,7 +28,6 @@
 		"search.exclude": {
 			"**/node_modules": true,
 			"**/.git": true,
-			"**/.github": true,
 			"**/.gitignore": true,
 			"**/.DS_Store": true,
 			"**/.cache": true,
@@ -51,26 +45,4 @@
 		}
 	}
 }
-```
-
-## Cursor `.cursorignore`
-
-```gitignore
-**/node_modules
-**/.git
-**/.github
-**/.gitignore
-**/.DS_Store
-**/.cache
-**/.yarn
-**/.nuxt
-**/.terragrunt-cache
-**/.idea
-**/.terraform
-**/*.tfstate
-**/.terraform.lock.hcl
-**/__pycache__
-**/*.pyc
-**/*.pyo
-**/*.pyd
 ```
